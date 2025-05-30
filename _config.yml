@@ -60,14 +60,11 @@ author:
   links:
 
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://linkedin.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yugandhar-kumar-907a3663/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://scholar.google.com/citations?user=0-Na4gMAAAAJ&hl=en&oi=ao"
 
 defaults:
   # _posts
