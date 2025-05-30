@@ -66,6 +66,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://scholar.google.com/citations?user=0-Na4gMAAAAJ&hl=en&oi=ao"
 
+nav:
+ 
+  - title: "Research"
+    url: /Research/
+
 defaults:
 
   # _pages
