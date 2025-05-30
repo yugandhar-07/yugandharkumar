@@ -55,19 +55,17 @@ plugins:
 
 author:
   name   : "Yugandhar Kumar"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Yugandhar_Professional_headshot_May2025.JPG"
+ 
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
